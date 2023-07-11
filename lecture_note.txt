@@ -1,0 +1,10 @@
+# 1. While Loop
+- if we are stuck in an infinite loop, try hitting "Control + C"
+
+# 2. For loop
+
+- we can use _ to represent a feature to loop over a range or a list. We can do this to signal people that this variable name does not matter as we move forward. 
+
+- This is also a more pythonic way than using "i"
+for _ in range(3):
+    print("meow")
